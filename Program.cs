@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Text;
+﻿using System.Text;
 
 const string clickbait = "resources/clickbait_data";
 const string nonClickbait = "resources/non_clickbait_data";
